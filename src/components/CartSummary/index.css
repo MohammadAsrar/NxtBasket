@@ -1,0 +1,34 @@
+.summ-cont {
+  align-self: flex-end;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  max-width: 350px;
+}
+
+.summ-cont h1 {
+  color: #616e7c;
+  font-size: 25px;
+  margin-bottom: 0;
+}
+
+.summ-cont span {
+  color: #171f46;
+  font-size: 30px;
+}
+
+.summ-cont p {
+  color: #616e7c;
+  margin-top: 0;
+}
+
+.summ-cont button {
+  background-color: #0b69ff;
+  height: 30px;
+  width: 200px;
+  color: white;
+  border: 0;
+  outline: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
